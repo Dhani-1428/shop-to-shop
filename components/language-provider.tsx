@@ -130,6 +130,10 @@ const translations: Record<Language, Record<string, string>> = {
     expertSupportDesc: 'Technical support from professionals',
     competitivePrices: 'Competitive Prices',
     competitivePricesDesc: 'Best prices in the market',
+    dashboard: 'Dashboard',
+    usersInformation: 'Users Information',
+    subscriptions: 'Subscriptions',
+    paymentApprovals: 'Payment Approvals',
   },
   pt: {
     home: 'Início',
@@ -245,6 +249,10 @@ const translations: Record<Language, Record<string, string>> = {
     expertSupportDesc: 'Suporte técnico de profissionais',
     competitivePrices: 'Preços Competitivos',
     competitivePricesDesc: 'Os melhores preços do mercado',
+    dashboard: 'Painel',
+    usersInformation: 'Informação de Utilizadores',
+    subscriptions: 'Subscrições',
+    paymentApprovals: 'Aprovações de Pagamento',
   },
   es: {
     home: 'Inicio',
@@ -360,6 +368,10 @@ const translations: Record<Language, Record<string, string>> = {
     expertSupportDesc: 'Soporte técnico de profesionales',
     competitivePrices: 'Precios Competitivos',
     competitivePricesDesc: 'Los mejores precios del mercado',
+    dashboard: 'Panel',
+    usersInformation: 'Información de Usuarios',
+    subscriptions: 'Suscripciones',
+    paymentApprovals: 'Aprobaciones de Pago',
   },
   fr: {
     home: 'Accueil',
@@ -475,6 +487,10 @@ const translations: Record<Language, Record<string, string>> = {
     expertSupportDesc: 'Support technique par des professionnels',
     competitivePrices: 'Prix Compétitifs',
     competitivePricesDesc: 'Les meilleurs prix du marché',
+    dashboard: 'Tableau de Bord',
+    usersInformation: 'Informations Utilisateurs',
+    subscriptions: 'Abonnements',
+    paymentApprovals: 'Approbations de Paiement',
   },
   de: {
     home: 'Startseite',
@@ -590,6 +606,10 @@ const translations: Record<Language, Record<string, string>> = {
     expertSupportDesc: 'Technischer Support von Fachleuten',
     competitivePrices: 'Wettbewerbsfähige Preise',
     competitivePricesDesc: 'Die besten Preise auf dem Markt',
+    dashboard: 'Dashboard',
+    usersInformation: 'Benutzerinformationen',
+    subscriptions: 'Abonnements',
+    paymentApprovals: 'Zahlungsgenehmigungen',
   },
   hi: {
     home: 'होम',
@@ -705,6 +725,10 @@ const translations: Record<Language, Record<string, string>> = {
     expertSupportDesc: 'पेशेवरों से तकनीकी सहायता',
     competitivePrices: 'प्रतिस्पर्धी कीमतें',
     competitivePricesDesc: 'बाजार में सर्वोत्तम कीमतें',
+    dashboard: 'डैशबोर्ड',
+    usersInformation: 'उपयोगकर्ता जानकारी',
+    subscriptions: 'सदस्यताएं',
+    paymentApprovals: 'भुगतान अनुमोदन',
   },
   ur: {
     home: 'ہوم',
@@ -820,6 +844,10 @@ const translations: Record<Language, Record<string, string>> = {
     expertSupportDesc: 'پیشہ ور افراد سے تکنیکی مدد',
     competitivePrices: 'مسابقتی قیمتیں',
     competitivePricesDesc: 'مارکیٹ میں بہترین قیمتیں',
+    dashboard: 'ڈیش بورڈ',
+    usersInformation: 'صارفین کی معلومات',
+    subscriptions: 'سبسکرپشنز',
+    paymentApprovals: 'ادائیگی کی منظوریاں',
   },
   pa: {
     home: 'ਹੋਮ',
@@ -935,6 +963,10 @@ const translations: Record<Language, Record<string, string>> = {
     expertSupportDesc: 'ਪੇਸ਼ੇਵਰਾਂ ਤੋਂ ਤਕਨੀਕੀ ਸਹਾਇਤਾ',
     competitivePrices: 'ਮੁਕਾਬਲੇਬਾਜ਼ ਕੀਮਤਾਂ',
     competitivePricesDesc: 'ਬਾਜ਼ਾਰ ਵਿੱਚ ਸਭ ਤੋਂ ਵਧੀਆ ਕੀਮਤਾਂ',
+    dashboard: 'ਡੈਸ਼ਬੋਰਡ',
+    usersInformation: 'ਉਪਭੋਗਤਾ ਜਾਣਕਾਰੀ',
+    subscriptions: 'ਸਬਸਕ੍ਰਿਪਸ਼ਨਾਂ',
+    paymentApprovals: 'ਭੁਗਤਾਨ ਮਨਜ਼ੂਰੀਆਂ',
   },
 }
 
